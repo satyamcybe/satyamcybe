@@ -24,7 +24,6 @@
 <a href="https://linkedin.com/in/satyamxchoudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyamxchoudhary" height="30" width="40" /></a>
 <a href="https://instagram.com/satyamchy21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyamchy21" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mathologico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mathologico" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/401305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="401305" height="30" width="40" /></a>
 <a href="https://discord.gg/satyam1230914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="satyam1230914" height="30" width="40" /></a>
 </p>
 
